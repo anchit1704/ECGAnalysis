@@ -27,8 +27,7 @@ In this project I analyse the diagnostic features extracted from a 12 lead ECG d
 
 ## Results
 
-
-| Accuracy  | Precision |Recall | F1 Score |
+| Accuracy  | Precision | Recall | F1 Score |
 | ------------- | ------------- |------------- |------------- |
 | Content Cell  | Content Cell  | Content Cell | Content Cell |
 | Content Cell  | Content Cell  | Content Cell | Content Cell |
