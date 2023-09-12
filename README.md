@@ -23,13 +23,17 @@ In this project I analyse the diagnostic features extracted from a 12 lead ECG d
 - Multinomial Logistic Regression
 - Random Forest Classifier Model
 - SVM Classifier Model
-- XGBoost 
+- XGBoost
+- Neural Network
 
 ## Results
 
-| Accuracy  | Precision | Recall | F1 Score |
-| ------------- | ------------- |------------- |------------- |
-| Content Cell  | Content Cell  | Content Cell | Content Cell |
-| Content Cell  | Content Cell  | Content Cell | Content Cell |
+|| Accuracy  | Precision | Recall | F1 Score | ROC_AUC|
+|| ------------- | ------------- |------------- |------------- |------------- |
+|Logistic Regression| 0.823  | 0.817  | 0.823 | 0.819|0.958|
+|Random Forest Classifier| 0.914  | 0.913  | 0.914 | 0.913 |0.985|
+|SVM| 0.830  | 0.832  | 0.830 | 0.816 |0.954|
+|XGBoost| 0.923 |  0.922 | 0.923 |  0.922| 0.987|
+|Neural Network| 0.926  | 0.926  | 0.926 | 0.926 |0.987|
 
 ## Conclusion
