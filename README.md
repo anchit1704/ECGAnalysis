@@ -29,7 +29,7 @@ In this project I analyse the diagnostic features extracted from a 12 lead ECG d
 ## Results
 
 || Accuracy  | Precision | Recall | F1 Score | ROC_AUC|
-|| ------------- | ------------- |------------- |------------- |------------- |
+| ------------- | ------------- |------------- |------------- |------------- |
 |Logistic Regression| 0.823  | 0.817  | 0.823 | 0.819|0.958|
 |Random Forest Classifier| 0.914  | 0.913  | 0.914 | 0.913 |0.985|
 |SVM| 0.830  | 0.832  | 0.830 | 0.816 |0.954|
