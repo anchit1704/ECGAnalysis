@@ -17,8 +17,6 @@ In this project I analyse the diagnostic features extracted from a 12 lead ECG d
 - Encode labels into numeric form(0-11).
 - As the labels are not evenly distributed create new labels to uniformly distribute the dataset.  Options - 2 labels, 4 labels.
 
-## Problem Description
-
 ## Algorithms Implemented
 - Multinomial Logistic Regression
 - Random Forest Classifier Model
@@ -36,4 +34,3 @@ In this project I analyse the diagnostic features extracted from a 12 lead ECG d
 |XGBoost| 0.923 |  0.922 | 0.923 |  0.922| **0.987**|
 |Neural Network| **0.926**  | **0.926**  | **0.926** | **0.926** |**0.987**|
 
-## Conclusion
